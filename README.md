@@ -1,7 +1,7 @@
 aiktools
 ========
 
-This is a clone of the Attestation Identity Key (AIK) tools _previously found_ at http://privacyca.com/code.html (the domain appears to have been purchased by a completely unrelated entity as of May 2017)
+This is a clone of the Attestation Identity Key (AIK) tools _previously found_ at "privacyca.com/code.html", which was a website operated by Hal Finney (the domain appears to have been purchased by a completely unrelated entity as of May 2017)
 
 This requires:
 * A TPM
@@ -10,7 +10,7 @@ This requires:
 
 # Documentation
 
-The following documentation was previously found at http://privacyca.com/code.html (grabbed from a 2013 Wayback Machine snapshot); it may be helpful in understanding the code in this repository:
+The following documentation was previously found at "privacyca.com/code.html" (grabbed from a 2013 Wayback Machine snapshot); it may be helpful in understanding the code in this repository:
 
 
 ## Sample Source Code
